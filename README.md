@@ -1,6 +1,6 @@
 # Authenticaton in React
 
-### Technology stack used in the project
+### Technology stack used in this project
 * Reactjs
 * JWT
 * Dummy Json(fake rest API)
